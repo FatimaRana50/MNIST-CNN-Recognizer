@@ -1,4 +1,5 @@
-🧠 MNIST-CNN-Recognizer
+###🧠 MNIST-CNN-Recognizer
+
 A Python-based GUI application to recognize hand-drawn digits (0-9) using a Convolutional Neural Network (CNN) trained on a real-world handwritten digit dataset. The user draws a digit with the mouse, and the model predicts it in real-time.
 
 Built using:
@@ -9,16 +10,18 @@ Built using:
 
 🤖 TensorFlow/Keras for model prediction
 
-📊 Dataset from Kaggle: Handwriting Digit 0–9
+📊 Dataset from Kaggle: https://www.kaggle.com/datasets/riyaldi/handwriting-digit-0-9
 
 📸 Demo
 🧮 Model Summary:
 <img src="images/Capture5.PNG" alt="Model Summary" width="500"/>
+
+
 ✍️ Drawn Inputs and Predictions:
 Drawn Input (GUI)	Prediction Output
-<img src="images/Capture6.PNG" width="220"/>	GUI prediction result
-<img src="images/Capture7.PNG" width="220"/>	GUI prediction result
-<img src="images/Capture9.PNG" width="220"/>	GUI prediction result
+<img src="images/Capture6.PNG" width="220"/>	
+<img src="images/Capture7.PNG" width="220"/>
+<img src="images/Capture9.PNG" width="220"/>
 
 🗂️ Dataset Used
 This project uses the Handwriting Digit 0–9 dataset from Kaggle.
@@ -108,7 +111,7 @@ Allow live dataset collection from user drawings
 Deploy to Streamlit or Flask for web use
 
 🙌 Credits
-Dataset: Kaggle Handwriting Digit 0–9
+Dataset: https://www.kaggle.com/datasets/riyaldi/handwriting-digit-0-9
 
 Model & GUI: Built with Python, TensorFlow, Tkinter, and OpenCV
 
